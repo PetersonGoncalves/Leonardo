@@ -4,7 +4,7 @@ Leonardo
 the leonardo controls your computers mouse and keyboard.
 
 ## mouse and click.ino
-
+```arduino
 void setup()
 {
   Mouse.begin();
@@ -18,4 +18,5 @@ void loop()
 {
   delay(10);
 }
+```
 
